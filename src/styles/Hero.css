@@ -1,0 +1,40 @@
+.hero-main{
+    background: #7C20BE;
+}
+
+.hero-image-body{
+    position: relative;
+    opacity: 25%;
+    width: 852px;
+    /* height: 660.1px; */
+}
+
+.hero-image1{
+    width: 660.099px;
+    /* height: 660.099px; */
+    /* position: absolute; */
+    right: 0;
+    /* top: 0; */
+}
+
+.hero-image2{
+    /* position: absolute; */
+    right: 0;
+    /* top: 0; */
+    width: 541px;
+    /* height: 541px; */
+}
+
+.hero-button{
+   width: 339px;
+   height: 45px;
+   border-radius: 5px;
+   background: #FFF;
+   flex-shrink: 0;
+   font-family: Inter;
+   font-size: 14px;
+   font-weight: 400;
+   color: #7C1FBF;
+   line-height: normal;
+   border: 1px solid white;
+}

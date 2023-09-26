@@ -1,0 +1,29 @@
+.sub-hero-main{
+    background: #EDE9EF;
+}
+
+.sub-hero-component1{
+    width: 349px;
+    height: 338px;
+    
+}
+
+.sub-hero-component2{
+    width: 349px;
+    height: 338px;
+    
+}
+
+.sub-hero-component3{
+    width: 349px;
+    height: 338px;
+    
+}
+
+.sub-hero-text1{
+    color: #26093A;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+}

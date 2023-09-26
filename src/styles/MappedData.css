@@ -1,0 +1,11 @@
+.mapped-body{
+    background: #EDE9EF;
+}
+
+.mapped-data-body{
+    overflow-x: scroll;
+}
+
+.mapped-data-body::-webkit-scrollbar {
+    /* display :  */
+}

@@ -1,0 +1,13 @@
+.to-top-icon{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    width: 35px;
+    height: 40px;
+    font-size: 50px;
+    background-color: white;
+}
+
+.home-background-mapped{
+    background: #EDE9EF;
+}

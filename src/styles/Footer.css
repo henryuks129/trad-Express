@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
+
+.footer-main{
+    background: #EDE9EF;
+}
+
+.footer-copy{
+    /* width: 26px; */
+    /* height: 36px; */
+    font-size: 20px;
+}
+
+.footer-copy-2{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #292929;
+}
+
+.footer-header{
+    color: #26093A;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+}
+
+.footer-text{
+    font-family: Roboto;
+    color: #26093A;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+}
